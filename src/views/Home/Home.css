@@ -1,5 +1,5 @@
 .container{
-    height: 500px;
+  
     width: 700px;
     background-color: aliceblue;
     margin: 100px auto;
@@ -51,4 +51,31 @@
     font-size: 17px;
     padding: 5px 10px;
     border-radius: 5px;
+}
+@media (max-width: 768px){
+    .container{
+        width: 350px;
+        display: block;
+    }
+    .login-title{
+        margin-top: 50px;
+    }
+    .username{
+        margin-left: 40px;
+    }
+    .input-box{
+        margin-left: 0px;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .remember{
+        margin-left: 40px;
+    }
+    .btn{
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+    .create{
+        margin-left: -160px;
+    }
 }

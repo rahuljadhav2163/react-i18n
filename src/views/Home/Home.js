@@ -1,9 +1,7 @@
 import React, { useState } from 'react'
 import "./Home.css"
 import i18 from "../../util/i18.js"
-function Home() {
-
-    
+function Home() {    
   return (
     <div>
         <div className='container'>
