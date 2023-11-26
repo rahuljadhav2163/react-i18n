@@ -1,0 +1,54 @@
+.container{
+    height: 500px;
+    width: 700px;
+    background-color: aliceblue;
+    margin: 100px auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+}
+.login-title{
+    text-align: center;
+}
+.username{
+    margin-left: 80px;
+    padding-top: 50px;
+    font-size: 22px;
+    display: block;
+}
+.input-box{
+    border: none;
+    border-bottom: 2px solid black;
+    background: none;
+    margin-left: 30px;
+    width: 250px;
+}
+.remember{
+    font-size: 19px;
+    margin-left: 80px;
+    margin-top: 40px;
+    display: block;
+}
+.btn{
+    font-size: 20px;
+    padding: 8px 40px;
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(17, 110, 240);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.create{
+    text-align: center;
+    font-size: 25px;
+}
+.select-lang{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    font-size: 17px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

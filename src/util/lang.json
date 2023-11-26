@@ -1,0 +1,25 @@
+{
+    "English":{
+        "username": "Username or Email",
+        "password": "Password",
+        "remember": "Remember me",
+        "login": "Login",
+        "create": "Create an account"
+    },
+
+    "Marathi":{
+        "username": "वापरकर्ताचे नाव किंवा ईमेल",
+        "password":"संकेतशब्द",
+        "remember":"मला आतुर करा",
+        "login" : "लॉगिन",
+        "create": "खाते तयार करा"
+    },
+
+    "Hindi":{
+        "username": "उपयोगकर्ता नाम या ईमेल",
+        "password": "पासवर्ड",
+        "remember" :"मुझे याद रखें",
+        "login" : "लॉगिन",
+        "create": "खाता बनाएं"
+    }
+}
